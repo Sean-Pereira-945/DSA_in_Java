@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0088-merge-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0098-validate-binary-search-tree) |
 | [0268-missing-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0700-search-in-a-binary-search-tree) |
