@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0238-product-of-array-except-self) |
+| [0622-design-circular-queue](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0622-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0701-insert-into-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
