@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0268-missing-number) |
 | [0622-design-circular-queue](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0622-design-circular-queue) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0268-missing-number) |
 ## Counting
