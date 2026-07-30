@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0238-product-of-array-except-self) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0876-middle-of-the-linked-list) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0268-missing-number) |
 ## Stack
 |  |
