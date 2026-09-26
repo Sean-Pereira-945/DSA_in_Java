@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/2460-apply-operations-to-an-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
