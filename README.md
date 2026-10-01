@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0242-valid-anagram) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0392-is-subsequence) |
 ## Prefix Sum
