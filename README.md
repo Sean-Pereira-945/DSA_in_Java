@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0205-isomorphic-strings) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0202-happy-number) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0328-odd-even-linked-list) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0202-happy-number) |
 ## Bracket Sequences
 |  |
