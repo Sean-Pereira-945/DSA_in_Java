@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0622-design-circular-queue) |
+| [0643-maximum-average-subarray-i](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0643-maximum-average-subarray-i) |
 | [2460-apply-operations-to-an-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0643-maximum-average-subarray-i) |
 ## Quicksort
 |  |
 | ------- |
