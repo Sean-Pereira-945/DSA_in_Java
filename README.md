@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2460-apply-operations-to-an-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0560-subarray-sum-equals-k) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0414-third-maximum-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0876-middle-of-the-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/2460-apply-operations-to-an-array) |
 ## Tree
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
 | ------- |
