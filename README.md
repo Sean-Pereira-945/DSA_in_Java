@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0704-binary-search) |
 | [2460-apply-operations-to-an-array](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/Sean-Pereira-945/DSA_in_Java/tree/master/0704-binary-search) |
 ## Linked List
 |  |
 | ------- |
